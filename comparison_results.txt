@@ -1,0 +1,434 @@
+batlik_corona.csv
+Linear MAE : 0.18  Neural MAE :0.05
+Linear MAPE : 12.04  Neural MAPE :3.16
+
+batlik_cranium.csv
+Linear MAE : 0.07  Neural MAE :0.04
+Linear MAPE : 3.21  Neural MAPE :1.81
+
+batlik_cubus.csv
+Linear MAE : 0.24  Neural MAE :0.10
+Linear MAPE : 3.97  Neural MAPE :1.62
+
+batlik_flame.csv
+Linear MAE : 0.06  Neural MAE :0.03
+Linear MAPE : 3.22  Neural MAPE :1.81
+
+batlik_france.csv
+Linear MAE : 0.15  Neural MAE :0.08
+Linear MAPE : 3.91  Neural MAPE :2.16
+
+batlik_frisco.csv
+Linear MAE : 0.25  Neural MAE :0.13
+Linear MAPE : 5.20  Neural MAPE :2.90
+
+batlik_jelly.csv
+Linear MAE : 0.33  Neural MAE :0.04
+Linear MAPE : 17.03  Neural MAPE :1.99
+
+batlik_karte.csv
+Linear MAE : 1.54  Neural MAE :1.15
+Linear MAPE : 15.58  Neural MAPE :12.03
+
+batlik_mandelbrot.csv
+Linear MAE : 0.07  Neural MAE :0.02
+Linear MAPE : 4.91  Neural MAPE :1.82
+
+batlik_strawberry.csv
+Linear MAE : 0.10  Neural MAE :0.04
+Linear MAPE : 5.63  Neural MAPE :2.44
+
+batlik_village.csv
+Linear MAE : 1.82  Neural MAE :0.12
+Linear MAPE : 58.50  Neural MAPE :2.42
+
+dconvert_jpeg-large.csv
+Linear MAE : 0.46  Neural MAE :0.08
+Linear MAPE : 13.94  Neural MAPE :2.37
+
+dconvert_jpeg-medium.csv
+Linear MAE : 0.20  Neural MAE :0.03
+Linear MAPE : 10.68  Neural MAPE :1.94
+
+dconvert_jpeg-small.csv
+Linear MAE : 0.01  Neural MAE :0.01
+Linear MAPE : 3.43  Neural MAPE :3.05
+
+dconvert_png-large.csv
+Linear MAE : 0.24  Neural MAE :0.06
+Linear MAPE : 9.82  Neural MAPE :2.21
+
+dconvert_png-medium.csv
+Linear MAE : 0.02  Neural MAE :0.02
+Linear MAPE : 3.65  Neural MAPE :2.45
+
+dconvert_png-small.csv
+Linear MAE : 0.01  Neural MAE :0.01
+Linear MAPE : 3.24  Neural MAPE :3.13
+
+dconvert_psd-large.csv
+Linear MAE : 0.55  Neural MAE :0.40
+Linear MAPE : 1.44  Neural MAPE :1.02
+
+dconvert_psd-medium.csv
+Linear MAE : 0.07  Neural MAE :0.03
+Linear MAPE : 5.45  Neural MAPE :2.25
+
+dconvert_psd-small.csv
+Linear MAE : 0.02  Neural MAE :0.02
+Linear MAPE : 3.50  Neural MAPE :3.36
+
+dconvert_svg-large.csv
+Linear MAE : 0.03  Neural MAE :0.03
+Linear MAPE : 2.08  Neural MAPE :1.96
+
+dconvert_svg-medium.csv
+Linear MAE : 0.03  Neural MAE :0.03
+Linear MAPE : 1.66  Neural MAPE :1.65
+
+dconvert_svg-small.csv
+Linear MAE : 0.02  Neural MAE :0.01
+Linear MAPE : 4.15  Neural MAPE :2.26
+
+h2_smallbank-1.csv
+Linear MAE : 1322.36  Neural MAE :812.96
+Linear MAPE : 6.70  Neural MAPE :4.21
+
+h2_smallbank-10.csv
+Linear MAE : 731.47  Neural MAE :409.32
+Linear MAPE : 5.27  Neural MAPE :3.14
+
+h2_tpcc-2.csv
+Linear MAE : 33.75  Neural MAE :25.73
+Linear MAPE : 4.58  Neural MAPE :3.50
+
+h2_tpcc-8.csv
+Linear MAE : 106.73  Neural MAE :90.11
+Linear MAPE : 20.10  Neural MAPE :21.32
+
+h2_voter-16.csv
+Linear MAE : 2552.78  Neural MAE :682.11
+Linear MAPE : 8.11  Neural MAPE :2.23
+
+h2_voter-2.csv
+Linear MAE : 2679.54  Neural MAE :752.40
+Linear MAPE : 8.57  Neural MAPE :2.53
+
+h2_ycsb-2400.csv
+Linear MAE : 1329.50  Neural MAE :657.49
+Linear MAPE : 9.01  Neural MAPE :4.54
+
+h2_ycsb-600.csv
+Linear MAE : 1737.12  Neural MAE :804.20
+Linear MAPE : 8.32  Neural MAPE :3.91
+
+jump3r_beethoven.wav.csv
+Linear MAE : 2.46  Neural MAE :4.28
+Linear MAPE : 26.69  Neural MAPE :59.21
+
+jump3r_dual-channel.wav.csv
+Linear MAE : 0.65  Neural MAE :0.96
+Linear MAPE : 25.71  Neural MAPE :41.31
+
+jump3r_helix.wav.csv
+Linear MAE : 1.28  Neural MAE :1.81
+Linear MAPE : 28.71  Neural MAPE :45.29
+
+jump3r_single-channel.wav.csv
+Linear MAE : 0.36  Neural MAE :0.56
+Linear MAPE : 20.94  Neural MAPE :38.40
+
+jump3r_speech.wav.csv
+Linear MAE : 0.91  Neural MAE :1.82
+Linear MAPE : 20.64  Neural MAPE :58.20
+
+jump3r_sweep.wav.csv
+Linear MAE : 0.08  Neural MAE :0.13
+Linear MAPE : 12.77  Neural MAPE :23.58
+
+kanzi_ambivert.csv
+Linear MAE : 12.73  Neural MAE :11.05
+Linear MAPE : 140.25  Neural MAPE :58.90
+
+kanzi_artificl.csv
+Linear MAE : 0.15  Neural MAE :0.12
+Linear MAPE : 42.38  Neural MAPE :20.98
+
+kanzi_deepfield.csv
+Linear MAE : 14.99  Neural MAE :10.64
+Linear MAPE : 1161.27  Neural MAPE :76.00
+
+kanzi_enwik8.csv
+Linear MAE : 30.10  Neural MAE :22.35
+Linear MAPE : 272.93  Neural MAPE :63.38
+
+kanzi_fannie_mae_500k.csv
+Linear MAE : 26.87  Neural MAE :19.07
+Linear MAPE : 394.54  Neural MAPE :62.95
+
+kanzi_large.csv
+Linear MAE : 3.36  Neural MAE :2.42
+Linear MAPE : 138.50  Neural MAPE :31.38
+
+kanzi_misc.csv
+Linear MAE : 0.30  Neural MAE :0.23
+Linear MAPE : 43.08  Neural MAPE :17.22
+
+kanzi_silesia.csv
+Linear MAE : 62.47  Neural MAE :46.49
+Linear MAPE : 295.79  Neural MAPE :63.93
+
+kanzi_vmlinux.csv
+Linear MAE : 176.52  Neural MAE :48.50
+Linear MAPE : 4979.50  Neural MAPE :500.34
+
+lrzip_ambivert.wav.tar.csv
+Linear MAE : 20.54  Neural MAE :19.57
+Linear MAPE : 84.16  Neural MAPE :54.34
+
+lrzip_artificl.tar.csv
+Linear MAE : 1.69  Neural MAE :1.66
+Linear MAPE : 1566.89  Neural MAPE :1512.15
+
+lrzip_deepfield.tar.csv
+Linear MAE : 20.64  Neural MAE :19.92
+Linear MAPE : 83.49  Neural MAPE :54.70
+
+lrzip_enwik8.tar.csv
+Linear MAE : 27.18  Neural MAE :25.24
+Linear MAPE : 76.40  Neural MAPE :47.15
+
+lrzip_fannie_mae_500k.tar.csv
+Linear MAE : 7.26  Neural MAE :8.47
+Linear MAPE : 14.22  Neural MAPE :17.76
+
+lrzip_large.tar.csv
+Linear MAE : 2.83  Neural MAE :2.98
+Linear MAPE : 87.87  Neural MAPE :91.75
+
+lrzip_misc.tar.csv
+Linear MAE : 1.62  Neural MAE :1.47
+Linear MAPE : 305.61  Neural MAPE :311.95
+
+lrzip_silesia.tar.csv
+Linear MAE : 46.27  Neural MAE :42.05
+Linear MAPE : 87.34  Neural MAPE :43.44
+
+lrzip_uiq-32.bin.csv
+Linear MAE : 76.08  Neural MAE :66.82
+Linear MAPE : 138.33  Neural MAPE :46.59
+
+lrzip_uiq2-16.bin.csv
+Linear MAE : 41.32  Neural MAE :37.27
+Linear MAPE : 114.91  Neural MAPE :46.85
+
+lrzip_uiq2-4.bin.csv
+Linear MAE : 10.08  Neural MAE :9.60
+Linear MAPE : 81.34  Neural MAPE :58.44
+
+lrzip_uiq2-8.bin.csv
+Linear MAE : 21.19  Neural MAE :19.39
+Linear MAPE : 101.64  Neural MAPE :51.71
+
+lrzip_vmlinux-5.10.tar.csv
+Linear MAE : 6.42  Neural MAE :6.33
+Linear MAPE : 59.45  Neural MAPE :53.98
+
+x264_blue_sky_1080p25_short.y4m.csv
+Linear MAE : 3.58  Neural MAE :1.46
+Linear MAPE : 111.21  Neural MAPE :18.87
+
+x264_Johnny_1280x720_60_short.y4m.csv
+Linear MAE : 2.91  Neural MAE :1.40
+Linear MAPE : 128.95  Neural MAPE :20.41
+
+x264_Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv
+Linear MAE : 9.98  Neural MAE :4.76
+Linear MAPE : 111.69  Neural MAPE :19.10
+
+x264_pedestrian_area_1080p25_short.y4m.csv
+Linear MAE : 4.14  Neural MAE :1.86
+Linear MAPE : 102.49  Neural MAPE :18.89
+
+x264_riverbed_1080p25_short.y4m.csv
+Linear MAE : 7.82  Neural MAE :3.41
+Linear MAPE : 94.29  Neural MAPE :19.63
+
+x264_sd_bridge_close_cif_short.y4m.csv
+Linear MAE : 0.16  Neural MAE :0.07
+Linear MAPE : 68.99  Neural MAPE :13.02
+
+x264_sd_city_4cif_short.y4m.csv
+Linear MAE : 1.69  Neural MAE :0.69
+Linear MAPE : 118.82  Neural MAPE :18.37
+
+x264_sd_crew_cif_short.y4m.csv
+Linear MAE : 0.29  Neural MAE :0.11
+Linear MAPE : 86.83  Neural MAPE :15.35
+
+x264_sintel_trailer_2k_720p24_short.y4m.csv
+Linear MAE : 0.42  Neural MAE :0.19
+Linear MAPE : 69.73  Neural MAPE :14.00
+
+xz_ambivert.wav.tar.csv
+Linear MAE : 13.24  Neural MAE :1.24
+Linear MAPE : 121.87  Neural MAPE :8.09
+
+xz_artificl.tar.csv
+Linear MAE : 0.01  Neural MAE :0.01
+Linear MAPE : 30.54  Neural MAPE :35.87
+
+xz_deepfield.tar.csv
+Linear MAE : 5.90  Neural MAE :0.77
+Linear MAPE : 72.12  Neural MAPE :4.73
+
+xz_enwik8.tar.csv
+Linear MAE : 75.90  Neural MAE :15.87
+Linear MAPE : 195.81  Neural MAPE :12.38
+
+xz_fannie_mae_500k.tar.csv
+Linear MAE : 32.25  Neural MAE :3.34
+Linear MAPE : 102.52  Neural MAPE :8.68
+
+xz_large.tar.csv
+Linear MAE : 2.11  Neural MAE :0.20
+Linear MAPE : 55.96  Neural MAPE :4.56
+
+xz_misc.tar.csv
+Linear MAE : 0.10  Neural MAE :0.03
+Linear MAPE : 21.75  Neural MAPE :5.20
+
+xz_silesia.tar.csv
+Linear MAE : 65.30  Neural MAE :8.07
+Linear MAPE : 94.36  Neural MAPE :6.74
+
+xz_uiq-32.bin.csv
+Linear MAE : 84.62  Neural MAE :14.21
+Linear MAPE : 133.85  Neural MAPE :10.02
+
+xz_uiq2-16.bin.csv
+Linear MAE : 38.44  Neural MAE :6.78
+Linear MAPE : 123.81  Neural MAPE :9.33
+
+xz_uiq2-4.bin.csv
+Linear MAE : 5.29  Neural MAE :0.37
+Linear MAPE : 75.33  Neural MAPE :3.67
+
+xz_uiq2-8.bin.csv
+Linear MAE : 14.41  Neural MAE :5.09
+Linear MAPE : 96.84  Neural MAPE :13.20
+
+xz_vmlinux-5.10.tar.csv
+Linear MAE : 2.11  Neural MAE :0.20
+Linear MAPE : 31.14  Neural MAPE :3.53
+
+z3_AUFNIRA_z3.637557.smt2.csv
+Linear MAE : 91.56  Neural MAE :6.37
+Linear MAPE : 823.23  Neural MAPE :23.47
+
+z3_LRA_formula_277.smt2.csv
+Linear MAE : 0.32  Neural MAE :0.01
+Linear MAPE : 10.73  Neural MAPE :0.38
+
+z3_QF_AUFBV_891_sqlite3.smt2.csv
+Linear MAE : 9.92  Neural MAE :1.98
+Linear MAPE : 257.74  Neural MAPE :65.10
+
+z3_QF_AUFLIA_swap_t1_pp_nf_ai_00010_002.cvc.smt2.csv
+Linear MAE : 0.92  Neural MAE :0.04
+Linear MAPE : 12.47  Neural MAPE :0.55
+
+z3_QF_BV_bench_3176.smt2.csv
+Linear MAE : 139.88  Neural MAE :6.38
+Linear MAPE : 930.21  Neural MAPE :8.09
+
+z3_QF_BV_bench_935.smt2.csv
+Linear MAE : 97.53  Neural MAE :3.29
+Linear MAPE : 1454.30  Neural MAPE :14.94
+
+z3_QF_LIA_tightrhombus.csv
+Linear MAE : 0.62  Neural MAE :0.03
+Linear MAPE : 87.59  Neural MAPE :2.08
+
+z3_QF_LRA_clocksynchro_7clocks.worst_case_skew.induct.smt2.csv
+Linear MAE : 0.75  Neural MAE :0.04
+Linear MAPE : 5.41  Neural MAPE :0.33
+
+z3_QF_NRA_hong_9.smt2.csv
+Linear MAE : 0.01  Neural MAE :0.01
+Linear MAPE : 0.26  Neural MAPE :0.27
+
+z3_QF_RDL_orb08_888.smt2.csv
+Linear MAE : 0.25  Neural MAE :0.07
+Linear MAPE : 2.68  Neural MAPE :0.74
+
+z3_QF_UFLIA_xs_23_43.smt2.csv
+Linear MAE : 7.55  Neural MAE :0.25
+Linear MAPE : 33.94  Neural MAPE :1.10
+
+z3_QF_UF_PEQ018_size6.smt2.csv
+Linear MAE : 159.98  Neural MAE :7.65
+Linear MAPE : 757.06  Neural MAPE :56.56
+
+Linear has 9 wins
+Neural has 84 wins
+
+The systems where linear beat neural were ['jump3r_beethoven.wav.csv', 'jump3r_dual-channel.wav.csv', 'jump3r_helix.wav.csv', 'jump3r_single-channel.wav.csv', 'jump3r_speech.wav.csv', 'jump3r_sweep.wav.csv', 'lrzip_fannie_mae_500k.tar.csv', 'lrzip_large.tar.csv', 'z3_QF_NRA_hong_9.smt2.csv']
+
+batlik
+Linear Mean MAE is 0.44
+Neural Mean MAE is 0.16
+Linear Mean MAPE is 12.11
+Neural Mean MAPE is 3.11
+
+dconvert
+Linear Mean MAE is 0.14
+Neural Mean MAE is 0.06
+Linear Mean MAPE is 5.25
+Neural Mean MAPE is 2.30
+
+h2
+Linear Mean MAE is 1311.65
+Neural Mean MAE is 529.29
+Linear Mean MAPE is 8.83
+Neural Mean MAPE is 5.67
+
+jump3r
+Linear Mean MAE is 0.96
+Neural Mean MAE is 1.59
+Linear Mean MAPE is 22.58
+Neural Mean MAPE is 44.33
+
+kanzi
+Linear Mean MAE is 36.39
+Neural Mean MAE is 17.87
+Linear Mean MAPE is 829.80
+Neural Mean MAPE is 99.45
+
+lrzip
+Linear Mean MAE is 21.78
+Neural Mean MAE is 20.06
+Linear Mean MAPE is 215.51
+Neural Mean MAPE is 183.91
+
+x264
+Linear Mean MAE is 3.44
+Neural Mean MAE is 1.55
+Linear Mean MAPE is 99.22
+Neural Mean MAPE is 17.52
+
+xz
+Linear Mean MAE is 26.13
+Neural Mean MAE is 4.32
+Linear Mean MAPE is 88.92
+Neural Mean MAPE is 9.69
+
+z3
+Linear Mean MAE is 42.44
+Neural Mean MAE is 2.18
+Linear Mean MAPE is 364.64
+Neural Mean MAPE is 14.47
+
+WilcoxonResult(statistic=np.float64(399.0), pvalue=np.float64(7.640025800750336e-12))
+The median of neural is : 10.022866475326175
+The median of linear is : 42.37801804383169
