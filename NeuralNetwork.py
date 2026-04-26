@@ -31,7 +31,6 @@ def train(TRAINING,systems):
             EPOCHS = 1000
             BATCH_SIZE = 100
             VALIDATION_SPLIT = 0.2
-            TRAINING = True
             filename = csv_file.strip('.')
             print('\n> System: {}, Dataset: {} Training data fraction: 0.8'.format(current_system,csv_file))
             df = pd.read_csv(os.path.join(datasets_location, csv_file))
