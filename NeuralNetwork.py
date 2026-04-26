@@ -1,15 +1,11 @@
 import copy
 import os
-
 import keras.callbacks
-
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import Sequential, load_model
 from tensorflow.keras import regularizers
-
 from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error
 from sklearn.model_selection import train_test_split
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import json
@@ -23,16 +19,6 @@ def Normalise(x):
     for i in range(len(x)):
         x[i] = (x[i] - x_min) / (x_max - x_min)
     return x
-
-def plot_loss(history):
-  plt.plot(history.history['loss'], label='loss')
-  plt.plot(history.history['val_loss'], label='val_loss')
-  plt.ylim([0, 10])
-  plt.xlabel('Epoch')
-  plt.ylabel('Error')
-  plt.legend()
-  plt.grid(True)
-  plt.show()
 
 def train(TRAINING,systems):
     result_dict = {}

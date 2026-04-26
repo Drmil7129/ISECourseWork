@@ -1,7 +1,7 @@
 import json
-import matplotlib.pyplot as plt
 from scipy.stats import wilcoxon
 import numpy as np
+
 linear = json.load(open('linear_regression_results.txt'))
 neural = json.load(open('neural_network_results.txt'))
 linear_count = 0
